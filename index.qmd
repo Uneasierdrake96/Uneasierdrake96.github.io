@@ -1,11 +1,22 @@
 ---
-title: "temp_website"
+title: "About me"
 ---
 
-This is a Quarto website.
+This is a short introduction about me.
 
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
+# Introduction
+Hi, I am Shawn from Singapore Institute of Technology. I am a student currently studying in Applied Artificial Intelligence. I am interested in the field of AI and Data Analytic. I am currently learning about R through a module being AAI1001 - Data Engineering and Visualization. I like to spend my time watching documentary videos that are on YouTube and Netflix. As I feel that it would help provide me with some knowledge regarding the things that is ongoing around me and the world. Although I feel that generic newspaper articles nowadays are not that easy to come by, we are still able to look up the relative news website and look through the latest information. We must also be careful of the information that we are consuming as not only are there many false information and fake news, but information online might also be biased according to if they are right wing or left wing.
 
-```{r}
-1 + 1
-```
+# Skills
+- Python
+- SQL
+- Java
+- C++
+- C#
+- HTML
+- R
+
+# Other Links
+- My LinkedIn: <https://www.linkedin.com/in/shawn-lim-1b8186a2/>{target="_blank"}
+- Strava: <https://www.strava.com/athletes/111699791>{target="_blank"}
+- Email: 2400757@sit.singaporetech.edu.sg

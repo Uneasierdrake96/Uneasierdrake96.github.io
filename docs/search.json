@@ -5,5 +5,54 @@
     "title": "About",
     "section": "",
     "text": "About this site\n\n1 + 1\n\n[1] 2"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "About me",
+    "section": "",
+    "text": "This is a short introduction about me.\n\nIntroduction\nHi, I am Shawn from Singapore Institute of Technology. I am a student currently studying in Applied Artificial Intelligence. I am interested in the field of AI and Data Analytic. I am currently learning about R through a module being AAI1001 - Data Engineering and Visualization. I like to spend my time watching documentary videos that are on YouTube and Netflix. As I feel that it would help provide me with some knowledge regarding the things that is ongoing around me and the world. Although I feel that generic newspaper articles nowadays are not that easy to come by, we are still able to look up the relative news website and look through the latest information. We must also be careful of the information that we are consuming as not only are there many false information and fake news, but information online might also be biased according to if they are right wing or left wing.\n\n\nSkills\n\nPython\nSQL\nJava\nC++\nC#\nHTML\nR\n\n\n\nOther Links\n\nMy LinkedIn: https://www.linkedin.com/in/shawn-lim-1b8186a2/\nStrava: https://www.strava.com/athletes/111699791\nEmail: 2400757@sit.singaporetech.edu.sg"
+  },
+  {
+    "objectID": "hobbies.html",
+    "href": "hobbies.html",
+    "title": "Hobbies",
+    "section": "",
+    "text": "I like to road cycle during my free time, I enjoy the cycling fast as I am able to feel the wind and have a tangible experience on feeling “free”. I also enjoy playing video games such as League of Legends and would occasionally play with my friends. We would usually queue up together as 5 man and would have a good time playing together.\n\n\n\nFigure 1 - My Current Bike"
+  },
+  {
+    "objectID": "fyp_projects.html",
+    "href": "fyp_projects.html",
+    "title": "FYP Projects",
+    "section": "",
+    "text": "During our first trimester, we were tasked to create a project that would help us display our understanding of the module by coding out a game using Python. Where our group decided to create a fully functional Tetris game with some additional features. The game was created using the Pygame library, which is a set of Python modules designed for writing video games. It provides functionalities such as creating windows, drawing shapes, and handling user input. The game was designed to be played using the arrow keys for movement and rotation of the Tetris blocks. The objective of the game is to clear lines by filling them with blocks, which will then disappear and give the player points. The game ends when the blocks reach the top of the screen.\nOur Project link is created after following the tutorial attached below:\n\nThe tutorial is a step-by-step guide on how to create a Tetris game using Python and Pygame. It covers the basics of Pygame, including how to create a window, draw shapes, and handle user input. The tutorial also includes tips and tricks for optimizing the game and making it more enjoyable to play. Overall, the tutorial is a great resource for anyone looking to learn how to create games using Python and Pygame."
+  },
+  {
+    "objectID": "fyp_projects.html#project-1-project-title",
+    "href": "fyp_projects.html#project-1-project-title",
+    "title": "FYP Projects",
+    "section": "",
+    "text": "This is a brief description of the first project. It includes the main objectives, methodologies, and expected outcomes."
+  },
+  {
+    "objectID": "fyp_projects.html#project-2-project-title",
+    "href": "fyp_projects.html#project-2-project-title",
+    "title": "FYP Projects",
+    "section": "Project 2: [Project Title]",
+    "text": "Project 2: [Project Title]\nThis is a brief description of the second project. It includes the main objectives, methodologies, and expected outcomes."
+  },
+  {
+    "objectID": "reflection.html",
+    "href": "reflection.html",
+    "title": "Reflection",
+    "section": "",
+    "text": "The GenAI tools that I have utilized would be ChatGPT and Deepseek, other than that, I have also interact with the other Gen AI tools but have not really interact much with them. I feel that ChatGPT is very useful and is one of the most versatile in my opinion. They have a fairly accurate and reliable data when prompt and also have a good processing time. Personally, the only downside I feel would be that they is a limited number of prompts that can be done per day and would require the paid version. Which brings me to Deepseek, I would usually turn to Deekseek once my ChatGPT prompts are used up. Deepseek is a very useful tool as it allows me to search for information that I need and also allows me to search for information that is not available in ChatGPT. However, the downside would be that the processing time is quite slow and the data is not as accurate as ChatGPT. Overall, I feel that both tools are very useful and I would continue to use them in the future.\n\nBackground of ChatGPT\nChatGPT is a large language model developed by OpenAI. It is based on the GPT-3 architecture and has been trained on a diverse range of internet text. ChatGPT can generate human-like text and has been used in various applications, including chatbots, content generation, and more. The model is designed to understand and generate natural language, making it a powerful tool for various tasks.\n\n\n\nFigure 1: ChatGPT"
+  },
+  {
+    "objectID": "fyp_projects.html#project-1-inf1002_project",
+    "href": "fyp_projects.html#project-1-inf1002_project",
+    "title": "FYP Projects",
+    "section": "",
+    "text": "During our first trimester, we were tasked to create a project that would help us display our understanding of the module by coding out a game using Python. Where our group decided to create a fully functional Tetris game with some additional features. The game was created using the Pygame library, which is a set of Python modules designed for writing video games. It provides functionalities such as creating windows, drawing shapes, and handling user input. The game was designed to be played using the arrow keys for movement and rotation of the Tetris blocks. The objective of the game is to clear lines by filling them with blocks, which will then disappear and give the player points. The game ends when the blocks reach the top of the screen.\nOur Project link is created after following the tutorial attached below:\n\nThe tutorial is a step-by-step guide on how to create a Tetris game using Python and Pygame. It covers the basics of Pygame, including how to create a window, draw shapes, and handle user input. The tutorial also includes tips and tricks for optimizing the game and making it more enjoyable to play. Overall, the tutorial is a great resource for anyone looking to learn how to create games using Python and Pygame."
   }
 ]

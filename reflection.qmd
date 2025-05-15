@@ -1,0 +1,10 @@
+---
+title: "Reflection"
+---
+
+The GenAI tools that I have utilized would be [ChatGPT](https://chatgpt.com/){target="_blank"} and [Deepseek](https://chat.deepseek.com/){target="_blank"}, other than that, I have also interact with the other Gen AI tools but have not really interact much with them. I feel that ChatGPT is very useful and is one of the most versatile in my opinion. They have a fairly accurate and reliable data when prompt and also have a good processing time. Personally, the only downside I feel would be that they is a limited number of prompts that can be done per day and would require the paid version. Which brings me to Deepseek, I would usually turn to Deekseek once my ChatGPT prompts are used up. Deepseek is a very useful tool as it allows me to search for information that I need and also allows me to search for information that is not available in ChatGPT. However, the downside would be that the processing time is quite slow and the data is not as accurate as ChatGPT. Overall, I feel that both tools are very useful and I would continue to use them in the future.
+
+# Background of ChatGPT
+ChatGPT is a large language model developed by [OpenAI](https://openai.com/about/){target="_blank"}. It is based on the GPT-3 architecture and has been trained on a diverse range of internet text. ChatGPT can generate human-like text and has been used in various applications, including chatbots, content generation, and more. The model is designed to understand and generate natural language, making it a powerful tool for various tasks.
+
+![Figure 1: ChatGPT](img/openAI.png)

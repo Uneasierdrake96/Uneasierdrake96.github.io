@@ -1,0 +1,17 @@
+---
+title: "FYP Projects"
+---
+
+## Project 1: [INF1002_Project]
+During our first trimester, we were tasked to create a project that would help us display our understanding of the module by coding out a game using Python. Where our group decided to create a fully functional Tetris game with some additional features. The game was created using the Pygame library, which is a set of Python modules designed for writing video games. It provides functionalities such as creating windows, drawing shapes, and handling user input. The game was designed to be played using the arrow keys for movement and rotation of the Tetris blocks. The objective of the game is to clear lines by filling them with blocks, which will then disappear and give the player points. The game ends when the blocks reach the top of the screen.
+
+Our Project [link](https://github.com/ChewTzeHan/INF1002_Project5){target="_blank"} is created after following the tutorial attached below:
+
+{{< video https://www.youtube.com/watch?v=nF_crEtmpBo&ab_channel=ProgrammingWithNick width="600" height="400" >}}
+
+
+The tutorial is a step-by-step guide on how to create a Tetris game using Python and Pygame. It covers the basics of Pygame, including how to create a window, draw shapes, and handle user input. The tutorial also includes tips and tricks for optimizing the game and making it more enjoyable to play. Overall, the tutorial is a great resource for anyone looking to learn how to create games using Python and Pygame.
+
+
+## Project 2: [Project Title]
+This is a brief description of the second project. It includes the main objectives, methodologies, and expected outcomes.

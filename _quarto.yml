@@ -3,12 +3,16 @@ project:
   output-dir: docs
 
 website:
-  title: "temp_website"
+  title: "About Me"
+  favicon: favicon.png
   navbar:
+    logo: logo.png
     left:
       - href: index.qmd
         text: Home
-      - about.qmd
+      - fyp_projects.qmd
+      - hobbies.qmd
+      - reflection.qmd
 
 format:
   html:
@@ -17,6 +21,8 @@ format:
       - brand
     css: styles.css
     toc: true
+    toc-depth: 3
+    toc-location: left
 
 
 
